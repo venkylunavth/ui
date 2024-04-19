@@ -24,7 +24,9 @@ npm i
 ```
 npm run dev
 ```
-
+```
+Demo Test
+````
 Now the app is accessible at ```localhost:3000```
 
 # My Social Media
